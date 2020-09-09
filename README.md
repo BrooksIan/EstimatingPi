@@ -21,7 +21,7 @@
 - [The Comprehensive R Archive Network](http://cran.wustl.edu/)
 - [Data Visualization With Base R](https://www.r-graph-gallery.com/base-R.html)
 - [Matplotlib: Visualization With Python](https://matplotlib.org/)
-- [Pandas Visualization with Python](https://pandas.pydata.org/docs/user_guide/visualization.html)
+- [Pandas Visualization With Python](https://pandas.pydata.org/docs/user_guide/visualization.html)
 - [Seaborn: Statistical Data Visualization](https://seaborn.pydata.org/)
 
 
