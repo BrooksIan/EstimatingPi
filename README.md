@@ -15,7 +15,12 @@
 
 **Follow**: [LinkedIn - Ian Brooks PhD](https://www.linkedin.com/in/ianrbrooksphd/)
 
+**Related Links**:
+[seaborn: statistical data visualization](https://seaborn.pydata.org/)
+
+
 
 ## Random Sampling
+
 
 ![Powers](PowersOf10.gif "Powers10")
