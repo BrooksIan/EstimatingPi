@@ -29,4 +29,4 @@
 
 ## Random Sampling
 
-![MCgraph](MonteCarloGraph.jpeg "MCGraph")
+![Powers](PowersOf10.gif "Powers10")
